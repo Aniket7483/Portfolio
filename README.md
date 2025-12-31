@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my work in **Data Science, Mach
 The portfolio highlights real-world projects, technical skills, and practical problem-solving through clean UI and modern web technologies.
 
 ## 🌐 Live Demo
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 https://portfolio-lemon-seven-69.vercel.app/
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite
