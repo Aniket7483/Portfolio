@@ -17,7 +17,7 @@ const Projects = () => {
         <div className="project-card">
           <h3>Personal Portfolio</h3>
           <p>This interactive portfolio site showcases my skills, projects, and design sense. Features modern UI/UX, animations, and responsive design. Built with React and Vite.</p>
-          <a href="https://github.com/yourusername/portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/Aniket7483/Portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
         </div>
         <div className="project-card">
           <h3>Real and Fake News Detection</h3>
