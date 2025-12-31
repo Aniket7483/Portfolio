@@ -349,6 +349,47 @@ section h2::after {
 }
 .project-card a:hover {
   color: #0ea5e9;
+/* Mobile Responsive Styles */
+@media (max-width: 700px) {
+  .projects-grid {
+    flex-direction: column;
+    gap: 1.2rem;
+    align-items: center;
+  }
+  .project-card {
+    min-width: 90vw;
+    max-width: 98vw;
+    padding: 1.2rem 0.7rem;
+    font-size: 1rem;
+  }
+  .navbar ul {
+    flex-direction: column;
+    gap: 1.2rem;
+    background: rgba(30,41,59,0.97);
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100vw;
+    padding: 1.5rem 0;
+    display: none;
+  }
+  .navbar.open ul {
+    display: flex;
+  }
+  .navbar-hamburger {
+    display: block;
+    position: absolute;
+    right: 1.5rem;
+    top: 1.2rem;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #38bdf8;
+    z-index: 101;
+    cursor: pointer;
+  }
+}
+
 }
 
 .contact-form {
