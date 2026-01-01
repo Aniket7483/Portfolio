@@ -12,7 +12,7 @@ const Projects = () => {
         <div className="project-card">
           <h3>Param Social Foundation Website</h3>
           <p>Designed and developed a full-featured, responsive website for a non-profit, including donation integration and event management. Built with React and Node.js.</p>
-          <a href="https://aniket7483.github.io/Param-Social-Foundation/" target="_blank" rel="noopener noreferrer">Live Site</a>
+          <a href="https://paramsocialfoundation.org/" target="_blank" rel="noopener noreferrer">Live Site</a>
         </div>
         <div className="project-card">
           <h3>Personal Portfolio</h3>
