@@ -11,7 +11,7 @@ const Projects = () => {
         </div>
         <div className="project-card">
           <h3>Param Social Foundation Website</h3>
-          <p>Designed and developed a full-featured, responsive website for a non-profit, including donation integration and event management. Built with React and Node.js.</p>
+          <p>Designed and developed a full-featured, responsive website for a non-profit, including donation integration and event management.</p>
           <a href="https://paramsocialfoundation.org/" target="_blank" rel="noopener noreferrer">Live Site</a>
         </div>
         <div className="project-card">
